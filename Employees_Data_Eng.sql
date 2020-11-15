@@ -1,5 +1,7 @@
 -- SQL-Challenge
--- Luis Macías
+-- Juan F Ramirez Tovar
+
+-- Tables reivewed with https://app.quickdatabasediagrams.com/#/
 
 CREATE TABLE departments (
     dept_no VARCHAR   NOT NULL,
